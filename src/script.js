@@ -88,6 +88,7 @@ document.addEventListener('DOMContentLoaded', function () {
             showGameOverAlert(gameStartTime);
         }
     }
+    
 
     // Function to display the top 5 scores on the page
     function displayTopScores() {
